@@ -1,19 +1,38 @@
-body{
-    background-color: rgb(78, 78, 194);
-    background-image: url("https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg");
-    color: white;
+body {
+  background-color: rgb(78, 78, 194);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-image: url("https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg");
+  color: white;
 }
 
-#title, #description{
-    text-align: center;
+#title,
+#description {
+  text-align: center;
 }
 
-#survey-form{
-    background-color: rgb(167, 32, 201);
-    width: 50%;
-    padding: 100px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+#survey-form {
+  background-color: rgb(140, 74, 194);
+  width: 50%;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+#textarea {
+  width: 95%;
+  height: 70px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+#submit {
+  width: 100%;
+  height: 35px;
+  background-color: rgba(55, 175, 101, 255);
+  color: white;
+  border: 0ch;
+  border-radius: 2px;
 }
