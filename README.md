@@ -1,5 +1,40 @@
-# FCC Test Suite Template
+# ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+# First Code Review
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+> Give my first code review
+
+
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+**Clone this file  from github**
+**run : npm install**
+
+To get a local copy up and running follow these simple example steps.
+
+## Authors
+
+👤 **Salwa Ballouti**
+
+- GitHub: [@githubhandle](https://github.com/Salwa99)
+- Twitter: [@twitterhandle](https://twitter.com/salwa_ballouti)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
